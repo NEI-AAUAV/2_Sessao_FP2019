@@ -4,3 +4,7 @@ Sessão realizada no dia **19 de novembro de 2019**. Resolução dos guiões da 
 ## Oradores
 
 * 
+
+## Download and Clone
+* Clonar repositório: `git clone https://github.com/NEI-AAUAV/2_Sessao_FP2019`
+* Download repositório: [Download](https://github.com/NEI-AAUAV/2_Sessao_POO2019/archive/master.zip)
